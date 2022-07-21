@@ -1,0 +1,5 @@
+git clone link			// git clone from github
+git status 			// check status of new file
+git add file name or *		// add new file to stage area 
+git reset head file name 	// remove file from stage area 
+
